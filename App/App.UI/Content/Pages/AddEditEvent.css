@@ -1,0 +1,131 @@
+﻿.event-header{
+    padding-left:60px;
+}
+.event-header h2{
+    font-size: 33px;
+    font-weight: 700;
+}
+
+.event-header .status span{
+    border-radius: 5px;
+    padding: 2px 12px;
+    display:block;
+    background: yellow;
+}
+.event-button a{
+    background-color: #fff;
+    border-color: #4ea1cd;
+    border: 3px solid;
+    border-radius:6px;
+    font-size: 17px;
+    color:#4ea1cd;
+    padding: 7px 12px;
+    margin-left: 10px;
+    text-transform:uppercase;
+    text-decoration: none;
+    float:right;
+    display:block;
+   
+}
+.event-button a:hover{
+    background-color: #4ea1cd;
+        text-decoration: none;
+        color:#fff;
+        cursor: pointer;
+}
+.event-button .event-live{
+    background-color:#00ab44;
+        border-color:#00ab44;
+            color:#fff;
+}
+.event-button .event-live:hover{
+    background-color:  #00451b;
+        border-color:  #00451b;
+            color:#fff;
+}
+.event-button .buttonpannel{
+    padding-top: 25px;
+}.event-button .statuspannel{
+     text-align: right;
+}
+
+ .action-menu {
+    width: 100%;
+    border: none;
+    border-top: 1px black solid;
+    box-shadow: inset 0 1px 3px black;
+    border-radius: 0;
+    background-color: #282C35;
+    height: 60px;
+    margin-top: 10px;
+    text-transform: uppercase;
+}
+ .action-menu li a {
+    display: block;
+    height: 59px;
+    line-height: 60px;
+    background-color: #282C35;
+    color: #ADB0B6;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 400;
+    border-left: 1px solid black;
+    width: 110px;
+    padding: 4px 20px;
+    text-align: center;
+}
+  .action-menu li a:hover{
+      background-color: transparent;
+  }
+  .event-edit{
+      width: 900px;
+      margin: 10px auto;
+  }
+  .editer-heading {
+    border-bottom: 1px solid #D2D6DF;
+    margin-bottom: 10px;
+}
+  .editing-number {
+    padding: 10px;
+    display: block;
+    background: #0093D7;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 500;
+}
+  .editer-heading h3 {
+    margin-bottom: 0px;
+    padding-left: 10px;
+}
+  .tips {
+    display: block;
+    padding: 10px;
+}
+
+  .event-edit  input, .event-edit  select {
+    box-sizing: border-box;
+    border-radius: 3px;
+    vertical-align: middle;
+    padding: 9px 12px;
+    border: 1px #D2D6DF solid;
+    background: #fff;
+    color: #45494E;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    letter-spacing: .5px;
+    margin-top: 5px;
+}
+  .no-padding{
+      padding-left:0;
+            padding-right:0;
+  }
+  .afterspan{
+      padding-left: 10px;
+}
+.aftericon,.aftercheckbox{
+
+}
+.eventDates{
+    padding-top:10px;
+}

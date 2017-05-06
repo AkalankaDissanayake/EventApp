@@ -1,0 +1,4 @@
+C:\Users\Akalanka\documents\visual studio 2015\Projects\App\App.Entity\bin\Debug\App.Entity.dll
+C:\Users\Akalanka\documents\visual studio 2015\Projects\App\App.Entity\bin\Debug\App.Entity.pdb
+C:\Users\Akalanka\documents\visual studio 2015\Projects\App\App.Entity\obj\Debug\App.Entity.dll
+C:\Users\Akalanka\documents\visual studio 2015\Projects\App\App.Entity\obj\Debug\App.Entity.pdb

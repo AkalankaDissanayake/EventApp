@@ -1,0 +1,13 @@
+C:\Users\Akalanka\documents\visual studio 2015\Projects\App\App.Logic\bin\Debug\App.Logic.dll
+C:\Users\Akalanka\documents\visual studio 2015\Projects\App\App.Logic\bin\Debug\App.Logic.pdb
+C:\Users\Akalanka\documents\visual studio 2015\Projects\App\App.Logic\bin\Debug\App.Data.dll
+C:\Users\Akalanka\documents\visual studio 2015\Projects\App\App.Logic\bin\Debug\App.Entity.dll
+C:\Users\Akalanka\documents\visual studio 2015\Projects\App\App.Logic\bin\Debug\App.Utility.dll
+C:\Users\Akalanka\documents\visual studio 2015\Projects\App\App.Logic\bin\Debug\log4net.dll
+C:\Users\Akalanka\documents\visual studio 2015\Projects\App\App.Logic\bin\Debug\App.Data.pdb
+C:\Users\Akalanka\documents\visual studio 2015\Projects\App\App.Logic\bin\Debug\App.Entity.pdb
+C:\Users\Akalanka\documents\visual studio 2015\Projects\App\App.Logic\bin\Debug\App.Utility.pdb
+C:\Users\Akalanka\documents\visual studio 2015\Projects\App\App.Logic\bin\Debug\log4net.xml
+C:\Users\Akalanka\documents\visual studio 2015\Projects\App\App.Logic\obj\Debug\App.Logic.csprojResolveAssemblyReference.cache
+C:\Users\Akalanka\documents\visual studio 2015\Projects\App\App.Logic\obj\Debug\App.Logic.dll
+C:\Users\Akalanka\documents\visual studio 2015\Projects\App\App.Logic\obj\Debug\App.Logic.pdb

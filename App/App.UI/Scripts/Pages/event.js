@@ -128,12 +128,13 @@ function eventBooking() {
             EventTicketList: vm.getTicketData(),
         }
         $.ajax({
-            url: 'http://localhost/App.UI/api/Event/CreateEvent/',
+            url: baseurl+'api/Event/CreateEvent/',
             type: 'POST',
             data: EventObj,
             dataType: "json",
             async: true,
             success: function (data) {
+                vm.evetnID(data.Result);
                 alert("saved successfully");
                 
             }
@@ -146,7 +147,7 @@ function eventBooking() {
             evenID: vm.evetnID()
         }
         $.ajax({
-            url: 'http://localhost/App.UI/api/Event/GetEvetByID/',
+            url: baseurl+'api/Event/GetEvetByID/',
             type: 'GET',
             data: EventObj,
             dataType: "json",
@@ -156,6 +157,7 @@ function eventBooking() {
                 if (data) {
                     if (data.ResultStatus.IsSuccess) {
                         var rtn = data.Result;
+                        vm.evetnID(rtn.EventID);
                         vm.title(rtn.Title);
                         vm.venueName(rtn.VenueName);
                         vm.address(rtn.Address);

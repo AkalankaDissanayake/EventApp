@@ -81,7 +81,7 @@ function eventBooking() {
 
     function Ticket(obj) {
         var tkt = this;
-        if (typeof obj === 'int') {
+        if (typeof obj === 'number') {
             tkt.type = ko.observable(obj);
             tkt.name = ko.observable('');
             tkt.quantity = ko.observable('');

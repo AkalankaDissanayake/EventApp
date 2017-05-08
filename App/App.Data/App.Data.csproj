@@ -49,9 +49,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="InitialProjectSample.sql" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\App.Entity\App.Entity.csproj">
       <Project>{752b2726-cc71-40c0-a432-335a5766ba01}</Project>
       <Name>App.Entity</Name>
@@ -60,6 +57,9 @@
       <Project>{aa1023df-841e-4bc2-82f9-b96d55fcce4b}</Project>
       <Name>App.Utility</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="IntDB.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
